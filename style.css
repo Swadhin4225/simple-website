@@ -1,0 +1,22 @@
+.container{
+        display: flex;
+       
+}
+#wraper:background-color{
+       
+}
+.image {
+        box-shadow: 10px 20px 3px rgb(0, 0, 0);
+}
+.image:hover{
+        transform: scale(0.5);
+        transition: 0.5s;
+}
+nav{
+        background-color: antiquewhite;
+
+}
+.button{
+         background-color: rebeccapurple;
+        
+}
